@@ -10,7 +10,7 @@ Consumo da api rawg games desenvolvido em React.js.
 Comando para startar a aplicação.
 
 ```bash
-yarn start
+npm start
 ```
 Após rodar o comando, ele abrirá na porta padrão: 
 
